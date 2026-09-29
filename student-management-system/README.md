@@ -2,7 +2,7 @@
 
 A menu-driven **Python + SQLite** application to manage students, courses, enrollments, marks and attendance. It calculates grades and **CGPA** (10-point VIT-style scale), flags **attendance shortage** (< 75 %), and produces rank lists and CSV exports.
 
-> **VITyarthi Project** · Name: `[Your Name]` · Reg. No: `[Your Reg No]` · Course: `[Course Name]`
+> **VITyarthi Project** · Name: `[Himanshi khajuriya]` · Reg. No: `[26MIM10132]` · Course: `[Problem solving and programming]`
 
 ---
 
